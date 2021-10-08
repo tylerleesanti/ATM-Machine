@@ -1,0 +1,14 @@
+C:\Users\tyler.santi\Documents\git\Homework\chapter9.inclass\Chapter9.inClass\Chapter9.inClass\bin\Debug\netcoreapp3.1\Chapter9.inClass.exe
+C:\Users\tyler.santi\Documents\git\Homework\chapter9.inclass\Chapter9.inClass\Chapter9.inClass\bin\Debug\netcoreapp3.1\Chapter9.inClass.deps.json
+C:\Users\tyler.santi\Documents\git\Homework\chapter9.inclass\Chapter9.inClass\Chapter9.inClass\bin\Debug\netcoreapp3.1\Chapter9.inClass.runtimeconfig.json
+C:\Users\tyler.santi\Documents\git\Homework\chapter9.inclass\Chapter9.inClass\Chapter9.inClass\bin\Debug\netcoreapp3.1\Chapter9.inClass.runtimeconfig.dev.json
+C:\Users\tyler.santi\Documents\git\Homework\chapter9.inclass\Chapter9.inClass\Chapter9.inClass\bin\Debug\netcoreapp3.1\Chapter9.inClass.dll
+C:\Users\tyler.santi\Documents\git\Homework\chapter9.inclass\Chapter9.inClass\Chapter9.inClass\bin\Debug\netcoreapp3.1\Chapter9.inClass.pdb
+C:\Users\tyler.santi\Documents\git\Homework\chapter9.inclass\Chapter9.inClass\Chapter9.inClass\obj\Debug\netcoreapp3.1\Chapter9.inClass.csproj.AssemblyReference.cache
+C:\Users\tyler.santi\Documents\git\Homework\chapter9.inclass\Chapter9.inClass\Chapter9.inClass\obj\Debug\netcoreapp3.1\Chapter9.inClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tyler.santi\Documents\git\Homework\chapter9.inclass\Chapter9.inClass\Chapter9.inClass\obj\Debug\netcoreapp3.1\Chapter9.inClass.AssemblyInfoInputs.cache
+C:\Users\tyler.santi\Documents\git\Homework\chapter9.inclass\Chapter9.inClass\Chapter9.inClass\obj\Debug\netcoreapp3.1\Chapter9.inClass.AssemblyInfo.cs
+C:\Users\tyler.santi\Documents\git\Homework\chapter9.inclass\Chapter9.inClass\Chapter9.inClass\obj\Debug\netcoreapp3.1\Chapter9.inClass.csproj.CoreCompileInputs.cache
+C:\Users\tyler.santi\Documents\git\Homework\chapter9.inclass\Chapter9.inClass\Chapter9.inClass\obj\Debug\netcoreapp3.1\Chapter9.inClass.dll
+C:\Users\tyler.santi\Documents\git\Homework\chapter9.inclass\Chapter9.inClass\Chapter9.inClass\obj\Debug\netcoreapp3.1\Chapter9.inClass.pdb
+C:\Users\tyler.santi\Documents\git\Homework\chapter9.inclass\Chapter9.inClass\Chapter9.inClass\obj\Debug\netcoreapp3.1\Chapter9.inClass.genruntimeconfig.cache
